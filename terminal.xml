@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\Program Files\Git\bin\sh.exe" />
+    <option name="myTabName" value="GitBash" />
+    <option name="mySoundBell" value="false" />
+  </component>
+</application>

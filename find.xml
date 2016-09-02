@@ -1,0 +1,20 @@
+<application>
+  <component name="FindSettings">
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.css</mask>
+      <mask>*.scss</mask>
+      <mask>*.sass</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>

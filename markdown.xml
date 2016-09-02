@@ -1,0 +1,10 @@
+<application>
+  <component name="MarkdownApplicationSettings">
+    <MarkdownCssSettings StylesheetUri="file:/C:/Users/Pablo%20F/.PhpStorm2016.1/config/plugins/markdown/lib/darcula.css" />
+    <MarkdownPreviewSettings>
+      <HtmlPanelProviderInfo>
+        <ProviderInfo name="JavaFX WebView" className="org.intellij.plugins.markdown.ui.preview.javafx.JavaFxHtmlPanelProvider" />
+      </HtmlPanelProviderInfo>
+    </MarkdownPreviewSettings>
+  </component>
+</application>
