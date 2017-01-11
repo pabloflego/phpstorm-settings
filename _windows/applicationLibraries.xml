@@ -25,6 +25,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="html2canvas" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.rawgit.com_niklasvh_html2canvas_0.5.0-alpha2_dist_html2canvas.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.rawgit.com_niklasvh_html2canvas_0.5.0-alpha2_dist_html2canvas.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
