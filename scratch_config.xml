@@ -1,0 +1,10 @@
+<application>
+  <component name="ScratchConfig">
+    <option name="defaultScratchMeaning" value="TOPMOST" />
+    <option name="fullScratchNamesOrdered">
+      <list>
+        <option value="scratch.txt" />
+      </list>
+    </option>
+  </component>
+</application>
