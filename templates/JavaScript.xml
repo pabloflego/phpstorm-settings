@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="swi" value="switch($EXPRESSION$) {&#10;  case $CASE$:&#10;    $END$&#10;    break;&#10;}" description="switch" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="expr" alwaysStopAt="true" />
+    <variable name="CASE" expression="" defaultValue="case" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
