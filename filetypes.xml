@@ -5,6 +5,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env-EXAMPLE" type="PLAIN_TEXT" />
       <mapping pattern="i18n/es,json" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="vbs" type="PLAIN_TEXT" />
       <mapping ext="bck" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
