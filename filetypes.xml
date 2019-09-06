@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.ejs.html" type="EJS" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
@@ -11,7 +12,6 @@
       <mapping ext="bck" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="wri" type="PLAIN_TEXT" />
-      <mapping pattern="*.ejs.html" type="EJS" />
     </extensionMap>
   </component>
 </application>
